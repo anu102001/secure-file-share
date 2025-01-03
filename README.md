@@ -94,7 +94,7 @@ This will build both the frontend and backend containers and start the applicati
 1. Backend: Django, Django REST Framework, SQLite (or PostgreSQL in production)
 2. Frontend: React, Material-UI, PDF.js (for rendering PDFs)
 3. Encryption: AES-GCM for file encryption and decryption
-4. Docker: Docker Compose to containerize and run both frontend and backend
+4. Docker: Docker Compose to containerize and run both frontend and backend 
 
 ## UI Screenshots
 Register:
